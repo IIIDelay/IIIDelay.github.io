@@ -1,0 +1,1 @@
+import{_ as t,W as n,X as c,Y as e,Z as o}from"./framework-b5ea9e64.js";const l={},s=e("p",null,"这是一个博客主页的案例。",-1),_=e("p",null,[o("要使用此布局，你应该在页面前端设置 "),e("code",null,"layout: BlogHome"),o(" 和 "),e("code",null,"home: true"),o("。")],-1),a=[s,_];function r(d,u){return n(),c("div",null,a)}const m=t(l,[["render",r],["__file","index.html.vue"]]);export{m as default};

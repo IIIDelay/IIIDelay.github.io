@@ -1,0 +1,1 @@
+import{_ as t,W as a,X as o,Y as e,Z as n}from"./framework-b5ea9e64.js";const r={},s=e("h1",{id:"介绍页",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#介绍页","aria-hidden":"true"},"#"),n(" 介绍页")],-1),c=e("p",null,"会点前端的Java开发工作者。",-1),_=[s,c];function d(i,l){return a(),o("div",null,_)}const f=t(r,[["render",d],["__file","intro.html.vue"]]);export{f as default};
